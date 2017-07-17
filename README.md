@@ -1,14 +1,19 @@
 ### links
 
 https://blog.algorithmia.com/building-an-operating-system-for-ai/
+
 https://www.microsoft.com/en-us/seeing-ai/
+
 https://www.youtube.com/watch?v=jSWZXsGU_6E
 
 https://thenewstack.io/ai-programming-much-uncertainty
 
 http://hyperparameter.space/blog/when-not-to-use-deep-learning/
+
 https://www.cmu.edu/dietrich/news/news-stories/2017/june/brain-decoding-complex-thoughts.html
+
 https://www.designernews.co/stories/84443-redditors-design-worst-volume-sliders-possible
+
 https://arxiv.org/abs/1707.02968
 https://stanfordmlgroup.github.io/projects/ecg/
 https://www.youtube.com/watch?v=vq2nnJ4g6N0
